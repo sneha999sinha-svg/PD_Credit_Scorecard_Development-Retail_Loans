@@ -62,6 +62,7 @@ This project emphasizes **model interpretability, documentation, and monitoring*
 * Logistic Regression
 * WoE / IV
 * Matplotlib / Seaborn
+* MS Excel
 
 ---
 
